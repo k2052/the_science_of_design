@@ -1,0 +1,1 @@
+Music is central to my creative process. Some people find music distracting, I find it immersive. It bridges the gap between the different sides of my brain.
