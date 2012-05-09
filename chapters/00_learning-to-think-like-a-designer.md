@@ -17,7 +17,7 @@ There is a large dichotomy between those who've skills and those who don't. They
 
 Many designers speak of their lack of process. This is true, once you become a great designer the process becomes internal & you learn when you can break that process. Sometimes they forget the process was ever there in the first place. If you want to get to that point you've to develop a process and stick to it until you learn it.
 
-I'm a chess expert, I don't think consciously about simple mating maneuvers anymore & haven't for a long time. That doesn't mean that I don't see them, it just means I've internalized those calculations. Internalizing this has free-ed up my conscious mind for other things.  
+I'm a chess expert, I don't think consciously about simple mating maneuvers anymore & haven't for a long time. That doesn't mean that I don't see them, it just means I've internalized those calculations. Internalizing this has freed up my conscious mind for other things.  
 
 {{:note}}
 If you watch a chessmaster play chess very strong some moves will fly instantly as if they're superhuman thinkers, they aren't, they've just internalized a lot of stuff, to the point their brain does it instantly. I highly recommend reading about how chess players think. It may surprise you how they work. Its the same 
